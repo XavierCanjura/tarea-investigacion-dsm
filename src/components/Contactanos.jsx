@@ -1,13 +1,14 @@
 import React from 'react'
+import LogoImg from '../assets/img/devdreamsv.png'
 
 const Contactanos = () => {
     return (
         <>
-            <div className='mt-[5%] px-[5%] pt-[3%] w-full flex flex-wrap bg-primary text-white' id='Contáctanos'>
+            <div className='mt-[5%] px-[15%] pt-[3%] w-full flex flex-wrap bg-fondo text-white' id='Contáctanos'>
                 
                 <div className='w-full md:w-[50%]'>
                     {/* To Do: Colocar imagen */}
-                    Imagen
+                    <img src={ LogoImg } alt="" className='w-[300px] xl:w-[500px] mt-[4%]' />
                 </div>
                 <div className='flex flex-col w-full md:w-[50%] items-center  p-4 '>
                     <h1 className='text-center text-3xl md:text-5xl'>Contáctanos</h1>
@@ -30,7 +31,7 @@ const Contactanos = () => {
                 </div>
             </div>
 
-            <div className='relative h-[90px] bg-primary text-white'>
+            <div className='relative h-[90px] bg-fondo text-white'>
                 <p className='text-center w-full absolute bottom-4'>Derechos Reservador Dev Dreamsv</p>
             </div>
         </>
