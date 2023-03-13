@@ -17,7 +17,7 @@ const Nosotros = () => {
 
             <div className='absolute left-0 top-[90px] right-0 h-auto text-white px-[5%] flex flex-col items-center z-20'>
                     <img src={ LogoImg } alt="" className='w-[300px] xl:w-[500px] mt-[4%]' />
-                    <p className='text-md md:text-2xl text-justify mt-5 xl:w-[75%] poppins-regular'>Somos una empresa enfoca en el desarrollo de software innovador, creación de sitios web dinámicos e intuitivos, sistemas administrativos y aplicaciones móviles. Dev Dreamsv se fundó a inicios del año 2023 con la intención de dar soluciones tecnológicas a todo tipo de empresas y organizaciones de cualquier rubro que necesite automatizar o digitalizar sus procesos por medio de un software.</p>
+                    <p className='text-md md:text-2xl text-justify mt-5 xl:w-[75%] poppins-regular'>Somos una empresa enfocada en el desarrollo de software innovador, creación de sitios web dinámicos e intuitivos, sistemas administrativos y aplicaciones móviles. Dev Dreamsv se fundó a inicios del año 2023 con la intención de dar soluciones tecnológicas a todo tipo de empresas y organizaciones de cualquier rubro que necesite automatizar o digitalizar sus procesos por medio de un software.</p>
             </div>
 
             <div className='px-[5%] flex flex-wrap justify-around '>
