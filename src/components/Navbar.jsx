@@ -56,7 +56,9 @@ const Navbar = () => {
                     <ButtonNavbar text='Inicio' />
                     <ButtonNavbar text='Servicios' />
                     <ButtonNavbar text='Proyecto' />
+                    <ButtonNavbar text='Precios' />
                     <ButtonNavbar text='Colaboradores' />
+                    <ButtonNavbar text='Descargar' />
                     <ButtonNavbar text='Contáctanos' />
                 </div>
             </nav>
@@ -77,7 +79,9 @@ const Navbar = () => {
                     <ButtonNavbarMovil text='Inicio' />
                     <ButtonNavbarMovil text='Servicios' />
                     <ButtonNavbarMovil text='Proyecto' />
+                    <ButtonNavbarMovil text='Precios' />
                     <ButtonNavbarMovil text='Colaboradores' />
+                    <ButtonNavbarMovil text='Descargar' />
                     <ButtonNavbarMovil text='Contáctanos' />
                 </div>
             </div>

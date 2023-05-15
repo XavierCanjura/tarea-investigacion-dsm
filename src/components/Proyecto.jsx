@@ -52,9 +52,7 @@ const Proyecto = () => {
                             <p className='text-md md:text-xl text-justify'>Vax Pet va dirigia a las personas que desean llevar el seguimiento de cada control realizado en la veterinaria con respecto a las citas programadas, vacunación y desparasitación de cada mascota.</p>
                             <br />
                             <p className='text-md md:text-xl text-justify'>Vax Pet no tiene un costo adquirirla, es totalmente gratis.</p>
-                            
-                            <br /><br /><br /><br /><br />
-                            <h1 className='text-7xl'>Te amo mor revisas el Contactanos bye</h1>
+
                         </div>
                     </div>
                 </div>
