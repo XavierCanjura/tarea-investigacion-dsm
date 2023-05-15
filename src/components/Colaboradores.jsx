@@ -24,10 +24,13 @@ const data = [
     },
     {
         img: imgDaniel,
-        nombre: 'Daniel',
+        nombre: 'Danilo',
         general: 'Edad 27 años, Estudiante',
         descripcion: 'Soy un desarrollador de software front-end con 3 años de experiencia en el campo. Durante este tiempo, he trabajado en diversos proyectos que han abarcado desde la creación de páginas web sencillas hasta la implementación de complejas aplicaciones web empresariales.<br><br>Mi conocimiento y experiencia en tecnologías como HTML, CSS, JavaScript y frameworks como React y Angular, me han permitido desarrollar soluciones de software escalables y eficientes que cumplen con las necesidades de los clientes.<br><br>Además de mi experiencia en el desarrollo de software front-end, también he trabajado en colaboración con diseñadores y otros desarrolladores en equipos ágiles, lo que me ha permitido aprender a trabajar de manera colaborativa y eficiente en un entorno de equipo.',
-        proyectos: [],
+        proyectos: ["sistema de reserva de vacaciones",
+            "sistema de hoteleria",
+            "sistema de reserva de espacios de uso  comercial",
+            "sistema de evaluacion de perfiles de github"],
     },
     {
         img: imgSamuel,
